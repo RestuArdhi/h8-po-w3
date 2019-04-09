@@ -1,4 +1,4 @@
-cfunction dataHandling(argumen){
+function dataHandling(argumen){
     var bawah='';
     for(var i=0; i<=argumen.length-1; i++){
       for(var j=0; j<=i; j++){}
@@ -18,3 +18,6 @@ cfunction dataHandling(argumen){
                   ["0003", "Winona", "Ambon", "25/12/1965", "Memasak"],
                   ["0004", "Bintang Senjaya", "Martapura", "6/4/1970", "Berkebun"]
               ]));
+
+
+
